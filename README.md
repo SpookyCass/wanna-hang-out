@@ -5,6 +5,9 @@ I mainly explained the reason why I chose this on the site's about page, but it 
 As for the design of the website itself, I wanted to make it bright and fun with the colors, shapes =, and fonts included, since being in a long distance frienship or relationship can be sad at times. I wanted the interface to be easy to understand and navigate, while having useful, functioning results that can inspire people to figure out "what to do today".
 
 ## Process
+I first wanted to reach out to any other people in long distance friendships/relationships through my instagram to get more data and individual experiences besides mine. I made a google quiz and asked a few questions about their relationship and what kind of activities they do with their friend or partner, for inspiration. I talked to one person specifically who liked my idea and agreed that people in this situation can relate a lot because it can be hard at times.
+![quiz-response](https://user-images.githubusercontent.com/90733817/168313347-f0181ebd-49d8-4105-8125-31c80e0d140d.jpg)
+
 I started with some sketches of the layout I was thinking.
 ![PXL_20220428_052555648](https://user-images.githubusercontent.com/90733817/168191741-99304ee6-4fc6-4713-88a8-995e80f712f6.jpg)
 ![PXL_20220428_052603933](https://user-images.githubusercontent.com/90733817/168191753-9eeee9b3-8cfe-4e8f-9bf5-6dc8fd556f97.jpg)
