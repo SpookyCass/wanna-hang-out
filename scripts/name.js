@@ -3,8 +3,6 @@ document.addEventListener("DOMContentLoaded",function(){
     document.querySelector("#name").innerHTML = localStorage.getItem("name")
 })
 
- //var Activities = ['playing a video game', 'watch a new movie', 'a workout or yoga', 'doing homework', 'paint or do art', 'a cooking challenge', 'writing a letter for them', 'an online puzzle', 'listening to music']; 
-
  const Activities = {
      videoGames: {
         description:"playing a video game",
