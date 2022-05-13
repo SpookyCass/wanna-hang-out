@@ -2,7 +2,7 @@
 ## About
 I mainly explained the reason why I chose this on the site's about page, but it is basically a tool for people in long distance friendships or relationships to spend more time together to ensure they feel close even when they're physically apart. I came up with this idea because it was the first "community" I could think of that I am a part of that I felt needed something to help people in it.
 
-As for the design of the website itself, I wanted to make it bright and fun with the colors, shapes =, and fonts included, since being in a long distance frienship or relationship can be sad at times. I wanted the interface to be easy to understand and navigate, while having useful, functioning results that can inspire people to figure out "what to do today".
+As for the design of the website itself, I wanted to make it bright and fun with the colors, shapes, and fonts included, since being in a long distance frienship or relationship can be sad at times. I wanted the interface to be easy to understand and navigate, while having useful, functioning results that can inspire people to figure out "what to do today".
 
 ## Process
 I first wanted to reach out to any other people in long distance friendships/relationships through my instagram to get more data and individual experiences besides mine. I made a google quiz and asked a few questions about their relationship and what kind of activities they do with their friend or partner, for inspiration. I talked to one person specifically who liked my idea and agreed that people in this situation can relate a lot because it can be hard at times.
