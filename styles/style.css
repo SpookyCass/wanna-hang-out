@@ -1,3 +1,15 @@
+@font-face {
+    font-family: Sweet;
+    src: url(../font/FunSweet.ttf);
+}
+@font-face {
+    font-family: pixel;
+    src: url(../font/Pixelpunk.ttf);
+}
+@font-face {
+    font-family: Soft;
+    src: url(../font/Soft\ Core.ttf);
+}
 :root{
     --blue: rgb(60, 132, 169);
     --green: rgb(90, 189, 54);
@@ -7,17 +19,20 @@
 }
 html{
     background-color: var(--blue);
+    font-family: Soft;
 }
 h1{
     text-align: center;
     color: white;
+    font-family: Sweet;
     margin-bottom: 50px;
-    font-size: 60px;
+    font-size: 64px;
  }
  h2{
      color: white;
      padding: none;
-     font-size:35px;
+     font-size:40px;
+     font-family: pixel;
  }
  .home-back, button{
      background-color: var(--pink);
@@ -26,7 +41,8 @@ h1{
      color: white;
      margin: auto;
      padding: 10px;
-     font-size: 25px;
+     font-size: 28px;
+     font-family: pixel;
  }
  button:hover{
      color: var(--Dpink);
@@ -54,7 +70,7 @@ h1{
     background-color: var(--green);
     color: white;
     align-items: center;
-    font-size: 40px;
+    font-size: 50px;
     height: 200px;
     width: 200px;
     border: solid var(--Dgreen) 5px;
